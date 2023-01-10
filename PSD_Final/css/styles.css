@@ -1,0 +1,139 @@
+body {
+    background-color: #fefffdff;
+    font-family: 'DM Sans', sans-serif;
+    margin: 0 0 0 0;
+}
+
+.header {
+    height: 140px;
+    width: 100%;
+    border-bottom: solid 5px #df423dff;
+    margin: 0 0 0 0;
+    text-align: center;
+}
+
+.imgdev {
+    height: 100px;
+    width: 480px;
+    padding-top: 20px;
+}
+
+.contact {
+    display: initial;
+
+    position: absolute;
+    right: 1235px
+}
+
+h4 {
+    text-align: left;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    height: 2px;
+    color: #df423dff;
+}
+
+.contactinfo {
+    text-align: left;
+}
+
+.instagram {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    position: absolute;
+    left: 30;
+    top: 30;
+}
+
+.facebook {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    position: absolute;
+    left: 23;
+    top: 45px;
+}
+
+
+.linkdin {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    position: absolute;
+    left: 3;
+    top: 45;
+}
+
+.edu {
+    height: 400px;
+    width: 400px;
+    background-color: #ffc7c7;
+    border-radius: 50px;
+    position: absolute;
+    text-align: center;
+    left: 80px;
+    margin-top: 50px;
+}
+
+.edu:hover {
+    box-shadow: 10px 8px 5px rgb(165, 155, 155);
+    transition: box-shadow 0.4s ease-in-out;
+}
+
+.h11 {
+    text-shadow: 2px 2px 2px rgb(130, 3, 4);
+    color: #fefffdff;
+    margin-top: 30;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.opis {
+    padding: 0 90 0 90;
+    font-size: medium;
+    color: #130101;
+}
+
+.coach {
+    height: 400px;
+    width: 400px;
+    background-color: #fda9a9;
+    border-radius: 50px;
+    position: absolute;
+    text-align: center;
+    left: 525px;
+    margin-top: 50px;
+    left: 560px;
+}
+
+.coach:hover {
+    box-shadow: 10px 8px 5px rgb(165, 155, 155);
+    transition: box-shadow 0.4s ease-in-out;
+
+}
+
+.firma {
+    height: 400px;
+    width: 400px;
+    background-color: #ff8e8e;
+    border-radius: 50px;
+    position: absolute;
+    text-align: center;
+    right: 80px;
+    margin-top: 50px;
+}
+
+.firma:hover {
+    box-shadow: 10px 8px 5px rgb(165, 155, 155);
+    transition: box-shadow 0.4s ease-in-out;
+}
